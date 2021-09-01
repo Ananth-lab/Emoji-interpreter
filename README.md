@@ -1,6 +1,6 @@
 
 # Emoji interpreter
-Use the translator to convert your text from English to Minion speak or Banana language.
+A web-app used to tell the meanig of the emojis which are listed in it.
 
 ## Acknowledgements
 
