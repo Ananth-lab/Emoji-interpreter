@@ -6,7 +6,13 @@ const emojiDictionary = {
   "🤪": "Zany Face",
   "🤗": "Hugging Face",
   "😐": "Neutral Face",
-  "😑": "annoyance"
+  "😑": "annoyance",
+  "😪": "sleepy Face",
+  "🥵": "Hot Face",
+  "🥴": "Woozy Face",
+  "😵": "Dizzy Face",
+  "😯": "Hushed Face",
+  "😳": "Flushed Face"
 };
 const emojis = Object.keys(emojiDictionary);
 export default function App() {
