@@ -1,6 +1,6 @@
 
 # Emoji interpreter
-A web-app used to tell the meanig of the emojis which are listed in it.
+A web-app used to tell the meaning of the emojis which are listed in it.
 
 ## Acknowledgements
 
